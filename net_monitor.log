@@ -1,0 +1,5 @@
+2020-12-01 10:33:29,202 - DEBUG - Traceback (most recent call last):
+  File "/Users/liuhe_tech/PycharmProjects/NetworkMonitoring/test.py", line 29, in <module>
+    raise Exception('异常')
+Exception: 异常
+
